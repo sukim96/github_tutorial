@@ -3,7 +3,7 @@ def add(a, b):
     return a + b
 
 
-def sub(a, b):
+def sub2(a, b):
     """Return the difference of a and b."""
     return a - b
 
